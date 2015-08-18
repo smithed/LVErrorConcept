@@ -32,8 +32,10 @@
 	</Item>
 	<Item Name="context.ctl" Type="VI" URL="../context.ctl"/>
 	<Item Name="exception.ctl" Type="VI" URL="../exception.ctl"/>
+	<Item Name="is error.vi" Type="VI" URL="../is error.vi"/>
 	<Item Name="new exception.vi" Type="VI" URL="../new exception.vi"/>
 	<Item Name="severity.ctl" Type="VI" URL="../severity.ctl"/>
+	<Item Name="throw from error.vi" Type="VI" URL="../throw from error.vi"/>
 	<Item Name="throw with message.vi" Type="VI" URL="../throw with message.vi"/>
 	<Item Name="throw.vi" Type="VI" URL="../throw.vi"/>
 </Library>
