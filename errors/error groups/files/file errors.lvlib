@@ -4,9 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="catch file exception.vi" Type="VI" URL="../catch file exception.vi"/>
 	<Item Name="code to enum.vi" Type="VI" URL="../code to enum.vi"/>
 	<Item Name="enum to code.vi" Type="VI" URL="../enum to code.vi"/>
+	<Item Name="file error to exception.vi" Type="VI" URL="../file error to exception.vi"/>
 	<Item Name="file error.ctl" Type="VI" URL="../file error.ctl"/>
-	<Item Name="generate file error.vi" Type="VI" URL="../../generate file error.vi"/>
+	<Item Name="generate file error.vi" Type="VI" URL="../generate file error.vi"/>
 	<Item Name="path tag constant.vi" Type="VI" URL="../path tag constant.vi"/>
 </Library>
