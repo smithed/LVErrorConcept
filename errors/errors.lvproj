@@ -25,6 +25,7 @@
 			<Item Name="serialize.vi" Type="VI" URL="../../tests/serialize.vi"/>
 			<Item Name="simple read and write test.vi" Type="VI" URL="../../tests/simple read and write test.vi"/>
 			<Item Name="dialog test.vi" Type="VI" URL="../utilities/dialog test.vi"/>
+			<Item Name="rttrace.vi" Type="VI" URL="../../tests/rttrace.vi"/>
 		</Item>
 		<Item Name="utilities" Type="Folder">
 			<Item Name="exception to error cluster.vi" Type="VI" URL="../utilities/exception to error cluster.vi"/>
@@ -37,6 +38,7 @@
 			<Item Name="Write Exception Property.xnode" Type="XNode" URL="../Variant Repository/Write Variant Repository/Write Exception Property.xnode"/>
 		</Item>
 		<Item Name="exception.lvlib" Type="Library" URL="../exception.lvlib"/>
+		<Item Name="get and set immutable.vi" Type="VI" URL="../../tests/get and set immutable.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Array of VData to VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VArray__ogtk.vi"/>
@@ -203,10 +205,14 @@
 				<Item Name="Dynamic To Waveform Array.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Dynamic To Waveform Array.vi"/>
 				<Item Name="DTbl Empty Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Empty Digital.vi"/>
 				<Item Name="Version To Dotted String.vi" Type="VI" URL="/&lt;vilib&gt;/_xctls/Version To Dotted String.vi"/>
+				<Item Name="TraceTool Stop Trace And Send.vi" Type="VI" URL="/&lt;vilib&gt;/tracetool.llb/TraceTool Stop Trace And Send.vi"/>
+				<Item Name="TraceTool Start Trace.vi" Type="VI" URL="/&lt;vilib&gt;/tracetool.llb/TraceTool Start Trace.vi"/>
+				<Item Name="TraceTool Log User Event.vi" Type="VI" URL="/&lt;vilib&gt;/tracetool.llb/TraceTool Log User Event.vi"/>
 			</Item>
 			<Item Name="exceptions_Get Read Sink Data Type.vi" Type="VI" URL="../Variant Repository/Common/exceptions_Get Read Sink Data Type.vi"/>
 			<Item Name="exceptions_Insert and Wire XNode Template.vi" Type="VI" URL="../Variant Repository/Common/exceptions_Insert and Wire XNode Template.vi"/>
 			<Item Name="XNode Template.vi" Type="VI" URL="/../../../../../SVN/Reuse Tools/Sandbox/XNode Development/.Package/Read Variant Repository/XNode Template.vi"/>
+			<Item Name="TRef FinderCallback.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef FinderCallback.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
