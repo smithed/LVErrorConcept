@@ -30,7 +30,9 @@
 		<Item Name="set severity.vi" Type="VI" URL="../set severity.vi"/>
 		<Item Name="set source.vi" Type="VI" URL="../set source.vi"/>
 	</Item>
+	<Item Name="context.ctl" Type="VI" URL="../context.ctl"/>
 	<Item Name="exception.ctl" Type="VI" URL="../exception.ctl"/>
+	<Item Name="new exception.vi" Type="VI" URL="../new exception.vi"/>
 	<Item Name="severity.ctl" Type="VI" URL="../severity.ctl"/>
 	<Item Name="throw with message.vi" Type="VI" URL="../throw with message.vi"/>
 	<Item Name="throw.vi" Type="VI" URL="../throw.vi"/>

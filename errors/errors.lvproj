@@ -21,6 +21,7 @@
 		<Item Name="tests" Type="Folder">
 			<Item Name="convert.vi" Type="VI" URL="../../tests/convert.vi"/>
 			<Item Name="get and set.vi" Type="VI" URL="../../tests/get and set.vi"/>
+			<Item Name="get and set immutable.vi" Type="VI" URL="../../tests/get and set immutable.vi"/>
 			<Item Name="higher caller.vi" Type="VI" URL="../../tests/higher caller.vi"/>
 			<Item Name="serialize.vi" Type="VI" URL="../../tests/serialize.vi"/>
 			<Item Name="simple read and write test.vi" Type="VI" URL="../../tests/simple read and write test.vi"/>
@@ -38,7 +39,6 @@
 			<Item Name="Write Exception Property.xnode" Type="XNode" URL="../Variant Repository/Write Variant Repository/Write Exception Property.xnode"/>
 		</Item>
 		<Item Name="exception.lvlib" Type="Library" URL="../exception.lvlib"/>
-		<Item Name="get and set immutable.vi" Type="VI" URL="../../tests/get and set immutable.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Array of VData to VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VArray__ogtk.vi"/>
@@ -208,6 +208,8 @@
 				<Item Name="TraceTool Stop Trace And Send.vi" Type="VI" URL="/&lt;vilib&gt;/tracetool.llb/TraceTool Stop Trace And Send.vi"/>
 				<Item Name="TraceTool Start Trace.vi" Type="VI" URL="/&lt;vilib&gt;/tracetool.llb/TraceTool Start Trace.vi"/>
 				<Item Name="TraceTool Log User Event.vi" Type="VI" URL="/&lt;vilib&gt;/tracetool.llb/TraceTool Log User Event.vi"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 			</Item>
 			<Item Name="exceptions_Get Read Sink Data Type.vi" Type="VI" URL="../Variant Repository/Common/exceptions_Get Read Sink Data Type.vi"/>
 			<Item Name="exceptions_Insert and Wire XNode Template.vi" Type="VI" URL="../Variant Repository/Common/exceptions_Insert and Wire XNode Template.vi"/>
