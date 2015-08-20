@@ -14,7 +14,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="dialog tree" Type="Folder">
-			<Item Name="VariantTree__VP.lvclass" Type="LVClass" URL="../dialog tree/VariantTree__VP.lvclass"/>
+			<Item Name="Exceptions_VariantTree__VP.lvclass" Type="LVClass" URL="../dialog tree/Exceptions_VariantTree__VP.lvclass"/>
 			<Item Name="VariantProbe 2.4.1.txt" Type="Document" URL="../dialog tree/VariantProbe 2.4.1.txt"/>
 		</Item>
 		<Item Name="tests" Type="Folder">
@@ -33,6 +33,7 @@
 			<Item Name="exception to error cluster.vi" Type="VI" URL="../utilities/exception to error cluster.vi"/>
 			<Item Name="exceptions dialog.vi" Type="VI" URL="../utilities/exceptions dialog.vi"/>
 			<Item Name="exceptions lverror to exception.vi" Type="VI" URL="../utilities/exceptions lverror to exception.vi"/>
+			<Item Name="exception to json error cluster.vi" Type="VI" URL="../utilities/exception to json error cluster.vi"/>
 			<Item Name="exceptions store calling parameters.vi" Type="VI" URL="../utilities/exceptions store calling parameters.vi"/>
 			<Item Name="create report string.vi" Type="VI" URL="../utilities/create report string.vi"/>
 		</Item>
@@ -196,6 +197,7 @@
 			<Item Name="exceptions_Get Read Sink Data Type.vi" Type="VI" URL="../Variant Repository/Common/exceptions_Get Read Sink Data Type.vi"/>
 			<Item Name="exceptions_Insert and Wire XNode Template.vi" Type="VI" URL="../Variant Repository/Common/exceptions_Insert and Wire XNode Template.vi"/>
 			<Item Name="XNode Template.vi" Type="VI" URL="/../../../../../SVN/Reuse Tools/Sandbox/XNode Development/.Package/Read Variant Repository/XNode Template.vi"/>
+			<Item Name="context.ctl" Type="VI" URL="../context.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
