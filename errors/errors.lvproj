@@ -26,6 +26,8 @@
 			<Item Name="simple read and write test.vi" Type="VI" URL="../../tests/simple read and write test.vi"/>
 			<Item Name="dialog test.vi" Type="VI" URL="../utilities/dialog test.vi"/>
 			<Item Name="rttrace.vi" Type="VI" URL="../../tests/rttrace.vi"/>
+			<Item Name="demo subvi fileio.vi" Type="VI" URL="../../tests/demo subvi fileio.vi"/>
+			<Item Name="demo.vi" Type="VI" URL="../../tests/demo.vi"/>
 		</Item>
 		<Item Name="utilities" Type="Folder">
 			<Item Name="exception to error cluster.vi" Type="VI" URL="../utilities/exception to error cluster.vi"/>
