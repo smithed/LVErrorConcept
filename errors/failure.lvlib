@@ -37,4 +37,5 @@
 	<Item Name="throw from error.vi" Type="VI" URL="../throw from error.vi"/>
 	<Item Name="throw with message.vi" Type="VI" URL="../throw with message.vi"/>
 	<Item Name="throw.vi" Type="VI" URL="../throw.vi"/>
+	<Item Name="write exception property.vi" Type="VI" URL="../write exception property.vi"/>
 </Library>
